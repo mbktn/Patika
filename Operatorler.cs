@@ -42,7 +42,7 @@ namespace Operatorler
             {
                 Console.WriteLine("Fine!");
 
-                Console.WriteLine("*********Ilislisel Operatorler ********");
+                Console.WriteLine("*********Iliskisel Operatorler ********");
                 //Iliskisel Operatorler
                 //<, >, <=, >=, ==, !=
 
