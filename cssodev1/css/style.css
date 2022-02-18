@@ -1,0 +1,23 @@
+.ortalama{
+    text-align: center ;
+    
+}
+h1{
+    color: blueviolet;
+    font-size: 64px;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+body{
+    background-color:gray
+}
+
+#stil{
+    font-style: italic;
+}
+
+
